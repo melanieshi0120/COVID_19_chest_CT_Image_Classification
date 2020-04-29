@@ -29,13 +29,13 @@ https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset
 ![resize_images.png](resize_images.png)
 
 # Modeling
-Neural Network ( early stop, regularization )
-Random Forest ( GridSearch)
+- Neural Network ( early stop, regularization )
+- Random Forest ( GridSearch)
 # Model Evaluation
 Neural Network performed the best 
 - Training Accuracy: 0.9702
 - Testing Accuracy:  0.8220
 - Train data f1_Score:0.9700983936657357
 - Test data f1_Score:0.8220129764851088
-![confusion_matrix.png](confusion_matrix.png)
+- ![confusion_matrix.png](confusion_matrix.png)
 
