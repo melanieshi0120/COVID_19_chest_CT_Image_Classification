@@ -38,5 +38,5 @@ Neural Network performed the best
 - Testing Accuracy:  0.8173
 - Train data f1_Score:0.9781282284242644
 - Test data f1_Score:0.8072066074203615
- ![nn_confusion_matrix.png](nn_confusion_matrix.png)
+- ![nn_confusion_matrix.png](nn_confusion_matrix.png)
 
