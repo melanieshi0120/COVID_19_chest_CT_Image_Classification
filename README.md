@@ -13,6 +13,7 @@ https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset
 
 # EDA 
  We can see the difference between COVID-19 pneumonia , normal or other pneumonia . Normal ones are very obvious, the histogram shows they are very smooth, on the other hand the histograms of  COVID_19 pneumonia and other type pneumonia  show more  fluctuations. 
+ (code source:https://www.kaggle.com/adityam1311/covid-19-x-ray-images-eda-models)
 ![Normal.png](Normal.png)
 ![pneumonia.png](pneumonia.png)
 ![covid_19.png](covid_19.png)
